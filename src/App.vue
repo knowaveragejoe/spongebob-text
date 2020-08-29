@@ -40,4 +40,11 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+
+input {
+  text-align: center;
+  width: 25em;
+  height: 5em;
+  font-size: 16px;
+}
 </style>
